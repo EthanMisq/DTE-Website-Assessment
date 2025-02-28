@@ -1,0 +1,83 @@
+.header{
+    background-image: url("stripe.png");
+    background-repeat: no-repeat;
+    background-position: 80%; 
+    padding-left:40px;
+    padding-bottom:40px;
+    padding-top:40px;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+
+h1{
+  font-family:'Segoe UI', Tahoma, Verdana, sans-serif
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #040e2b;
+  }
+
+  ul {
+    background-color: #dddddd;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #040e2b;
+  }
+  
+  li {
+    text-align:center;
+    float: left;
+    font-size:large;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .webbody{
+    background-color: #040e2b;
+  }
+
+  li a:hover {
+    background-color: #ff0e0e;
+    color:rgb(255, 255, 255)
+  }
+
+
+li {
+    border-right: 1px solid #bbb;
+  }
+  
+  li:last-child {
+    border-right: none;
+  }
