@@ -288,3 +288,11 @@ li {
   padding-left: 20px;
 }
 
+.flipimg{
+  border-radius: 5px;
+}
+
+.stafftable{
+  margin-left: auto;
+  margin-right: auto;
+}
