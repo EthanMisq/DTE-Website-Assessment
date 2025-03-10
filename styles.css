@@ -186,13 +186,22 @@ li {
   color:#ddd;
 }
 
+.footercontainer{
+  display:flex;
+  flex-direction: row;
+  background-color:#255bcf;
+}
+
+
 
 .footer1{
   padding-left:20px;
-  background-color:#255bcf;
+  background-color:none;
   padding-bottom: 20px;
   padding-top:10px;
+  padding-right:33px;
   text-shadow:#040e2b 5px;
+  border-right: 5px solid white;
 }
 
 .flip-card {
@@ -271,5 +280,10 @@ li {
 
 .Massisimg{
   padding-left:20px;
-  padding-right:20px;
+  padding-right:45px;
+  padding-bottom: 20px;
+}
+
+.title1{
+  padding-left: 20px;
 }
