@@ -303,3 +303,8 @@ li {
   text-align: center;
   color: white;
 }
+
+.tableimgstaff{
+  display: flex;
+  flex-direction: row;
+}
