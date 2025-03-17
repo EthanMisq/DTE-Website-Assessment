@@ -308,3 +308,12 @@ li {
   display: flex;
   flex-direction: row;
 }
+
+.stafftableimg{
+  display:flex;
+  flex-direction: row;
+}
+
+.staffimg{
+  border-radius: 50px;
+}
