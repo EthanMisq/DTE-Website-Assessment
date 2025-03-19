@@ -320,3 +320,9 @@ li {
   flex-wrap: wrap;
   justify-content: center;
 }
+
+.stafftextcontainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
