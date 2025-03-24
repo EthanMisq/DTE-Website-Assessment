@@ -325,6 +325,7 @@ li {
   display: flex;
   flex-direction: row;
   justify-content: center;
+<<<<<<< HEAD
   text-align: center;
 }
 
@@ -334,4 +335,6 @@ iframe:focus {
 
 iframe[seamless] {
   display: block;
+=======
+>>>>>>> 9e15334da7f047786c6b7b4a9b72cf03b63466c8
 }
