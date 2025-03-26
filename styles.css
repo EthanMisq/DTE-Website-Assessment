@@ -347,3 +347,46 @@ div.scroll-container {
 div.scroll-container img {
   padding: 10px;
 }
+
+.collage{
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.img-box1{
+  height: 300px;
+}
+
+.img-box2{
+  height: 300px;
+}
+
+.img-box3{
+  height: 300px;
+}
+
+.img-box4{
+  height: 300px;
+}
+
+.img-box5{
+  height: 300px;
+}
+
+.img-box6{
+  height: 300px;
+}
+
+.img-box7{
+  height: 300px;
+}
+
+.img-box8{
+  height: 300px;
+}
+
+.img-box9{
+  height: 300px;
+}
