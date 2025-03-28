@@ -190,7 +190,9 @@ li {
   display:flex;
   flex-direction: row;
   background-color:#255bcf;
-  justify-content: space-around;
+  justify-content: space-evenly;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .teacher{
@@ -357,36 +359,59 @@ div.scroll-container img {
 
 .img-box1{
   height: 300px;
+  width: 25%;
+  object-fit: cover;
 }
 
 .img-box2{
   height: 300px;
+  width: 45%;
+  object-fit: cover;
 }
 
 .img-box3{
   height: 300px;
+  width: 29.51%;
+  object-fit: cover;
 }
 
 .img-box4{
   height: 300px;
+  width: 39.52%;
+  object-fit: cover;
 }
 
 .img-box5{
   height: 300px;
+  width: 20%;
+  object-fit: cover;
 }
 
 .img-box6{
   height: 300px;
+  width: 40%;
+  object-fit: cover;
 }
 
 .img-box7{
   height: 300px;
+  width: 20%;
+  object-fit: cover;
 }
 
 .img-box8{
   height: 300px;
+  width: 55%;
+  object-fit: cover;
 }
 
 .img-box9{
   height: 300px;
+  width: 24.52%;
+  object-fit: cover;
+}
+
+.footerbutton{
+  color: white;
+  background-color:#255bcf;
 }
