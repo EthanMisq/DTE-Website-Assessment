@@ -190,11 +190,12 @@ li {
   display:flex;
   flex-direction: row;
   background-color:#255bcf;
-  justify-content: space-evenly;
+  justify-content: space-around;
   padding-top: 10px;
   padding-bottom: 10px;
   align-items: center;
   flex-wrap: wrap;
+  padding-left:-20px;
 }
 
 .teacher{
@@ -205,12 +206,10 @@ li {
 
 .footer1{
   background-color:none;
-  text-shadow:#040e2b 5px;
 }
 
 .footer2{
   background-color:none;
-  text-shadow:#040e2b 5px;
 }
 
 .flip-card {
@@ -424,12 +423,4 @@ div.scroll-container img {
   flex-direction: row;
   justify-content: center;
   text-align: center;
-}
-
-.Massis-Is-More-Sigma-Than-Ethan{
-  color: #a01919;
-}
-
-.Massis-Is-More-Sigma-Than-Ethan2{
-  color: #0938b9;
 }
